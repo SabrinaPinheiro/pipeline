@@ -1,0 +1,8 @@
+pandas>=1.5.0       # Manipulação e análise de dados tabulares
+numpy>=1.21.0       # Computação numérica e operações vetoriais
+plotnine            # Visualização de dados baseada na Gramática dos Gráficos (estilo ggplot)
+statsmodels         # Modelagem estatística, testes e séries temporais (ETS, STL)
+scikit-learn        # Machine Learning (Regressão Linear, Pré-processamento)
+streamlit           # Framework para criação da aplicação web interativa
+matplotlib          # Biblioteca base para plotagem de gráficos
+streamlit-shadcn-ui # Componentes de UI modernos (estilo React/Shadcn) para Streamlit
