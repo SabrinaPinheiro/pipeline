@@ -402,6 +402,6 @@ Este projeto é desenvolvido para fins educacionais como parte do curso **"Como 
 
 <div align="center">
 
-**Desenvolvido com ❤️ usando Python, Streamlit e muita Ciência de Dados**
+**Desenvolvido por [SPdev.com.br](https://spdev.com.br) usando Python, Streamlit e muita Ciência de Dados**
 
 </div>
